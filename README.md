@@ -1,5 +1,15 @@
 ## Install step
 
+### Install package
+
+Install those package in devDendencies
+
+```
+"tailwindcss": "3.4.17",
+"eslint": "9.33.0",
+"prettier": "3.6.2"
+```
+
 ### Remove legacy file
 
 - remove .eslintignore
