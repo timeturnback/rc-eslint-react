@@ -1,6 +1,6 @@
 {
   "name": "rc-eslint-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@eslint/compat": "1.3.2",
     "@eslint/eslintrc": "3.0.2",
